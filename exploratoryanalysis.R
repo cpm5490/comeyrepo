@@ -326,3 +326,5 @@ mod_coefs
 # Hmm, so again maybe the letter had an effect, but that it was not an absolute change in probability of voting for 
 # Clinton, but a relative increase in probability of voting for Trump relative to Clinton, post treatment. This given
 # statistically significant increase in probability of voting for Trump and a null effect for CLinton. 
+
+# Test to see if this works.
